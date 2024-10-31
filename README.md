@@ -1,4 +1,4 @@
-# flutter_ecommerc
+# Note app
 
 A new Flutter project.
 
